@@ -10,9 +10,9 @@
 
 ## Style Guidelines:
 
-- Primary color: A calming blue (#64B5F6) to represent clarity and insight.
-- Background color: Light gray (#F5F5F5) to provide a clean and neutral backdrop.
-- Accent color: A warm orange (#FFB74D) to highlight important data points and trends.
+- Primary color: A calming blue ( #64B5F6) to represent clarity and insight.
+- Background color: Light gray ( #F5F5F5) to provide a clean and neutral backdrop.
+- Accent color: A warm orange ( #FFB74D) to highlight important data points and trends.
 - Use clear, modern sans-serif fonts.
 - Simple, intuitive icons for different metrics.
 - Clean, data-focused design with clear visual hierarchy.

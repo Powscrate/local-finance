@@ -1,4 +1,4 @@
-# Sakai - Assistant IA Conversationnel
+## Sakai - Assistant IA Conversationnel
 
 Ceci est une application NextJS construite avec Firebase Studio, transformée en un assistant IA conversationnel nommé Sakai.
 

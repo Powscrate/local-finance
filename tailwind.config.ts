@@ -66,6 +66,20 @@ export default {
   			md: 'calc(var(--radius) - 2px)',
   			sm: 'calc(var(--radius) - 4px)'
   		},
+		cursor: {
+			p: 'pointer'
+		},
+		fontWeight: {
+			bold: 'bold'
+		},
+		width: {
+			10: '10%',
+			20: '20%',
+			40: '40%',
+
+			50: '50%',
+			80: '80%'
+		},
   		keyframes: {
   			'accordion-down': {
   				from: {
